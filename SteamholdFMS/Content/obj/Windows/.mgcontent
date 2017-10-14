@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/CountdownBackground.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/titlefontsuper.spritefont</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/outerworks.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/bluedefensedamaged.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/bluedefenseuntouched.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/bluedefenseweakened.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/reddefensedamaged.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/reddefenseuntouched.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/reddefenseweakened.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/timerbar.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/greentimer.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/redtimer.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/yellowtimer.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/scorecounter.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/steamhold4.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/timerbackground.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/timerfont.spritefont</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/bluegearcounter.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/redgearcounter.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/blueendgameboard.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/blueendgameclimb.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/blueendgameoff.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/redendgameboard.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/redendgameclimb.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/redendgameoff.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/background.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/gear.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/breachblue.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/breachoff.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/breachred.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/captureblue.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/capturemidblue.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/capturemidred.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/captureoff.png</File>
+    <File>C:/Users/kaiza/Documents/Visual Studio 2015/Projects/SteamholdFMS/SteamholdFMS/Content/capturered.png</File>
+  </SourceFiles>
+</SourceFileCollection>
